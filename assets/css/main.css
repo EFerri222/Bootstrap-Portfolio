@@ -8,8 +8,13 @@ nav {
 
 body {
     background-image: url("../images/background.jpeg");
+    background-repeat: no-repeat;
 }
 
 p {
     color: white;
+}
+
+.card {
+    background-color: grey;
 }
