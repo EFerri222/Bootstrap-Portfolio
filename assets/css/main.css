@@ -1,0 +1,15 @@
+nav {
+    height: 100px;
+}
+
+#mainContent {
+    margin-top: 150px;
+}
+
+body {
+    background-image: url("../images/background.jpeg");
+}
+
+p {
+    color: white;
+}
